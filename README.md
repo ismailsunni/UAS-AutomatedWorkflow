@@ -4,9 +4,9 @@ This is the repository to store the work that has been done by Automated Workflo
 
 ## Content
 
-1. [Docker image to run QGIS 3 Processing Model](docker-qgis3-model)
-2. [Script to run the whole workflow in Linux / macOS](UAVWorkflow)
-3. Script to run the whole workflow in Linux / macOS
+1. [Docker image to run QGIS 3 Processing Model](https://github.com/ismailsunni/docker-qgis3-model)
+2. [Script to run the whole workflow on Linux / macOS](https://github.com/bkari02/UAVWorkflow)
+3. [Script to run the whole workflow on Window](https://github.com/GulraizKhan-GIS/ODM-QGIS3-Docker-Windows-)
 
 ## Team members
 
