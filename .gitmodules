@@ -4,3 +4,6 @@
 [submodule "UAVWorkflow"]
 	path = UAVWorkflow
 	url = https://github.com/bkari02/UAVWorkflow.git
+[submodule "ODM-QGIS3-Docker-Windows-"]
+	path = ODM-QGIS3-Docker-Windows-
+	url = https://github.com/GulraizKhan-GIS/ODM-QGIS3-Docker-Windows-
