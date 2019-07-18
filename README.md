@@ -1,5 +1,7 @@
 # UAS-AutomatedWorkflow
 
+![Classification Result](images/classification.png)
+
 This is the repository to store the work that has been done by Automated Workflow team for the Unmanned Aerial Systems for Applied Research 2019 in the University of Muenster.
 
 ## Content
@@ -15,3 +17,12 @@ This is the repository to store the work that has been done by Automated Workflo
 2. Benjamin Amir Karic
 3. Muhammad Gulraiz Khan
 4. Tina Baidar
+
+## Other Products
+
+![Orthoimages](./images/orthoimages.PNG)
+Orthoimages
+
+![NDVI Output](./images/NDVI_output.png)
+NDVI Output
+
