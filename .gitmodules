@@ -1,0 +1,3 @@
+[submodule "docker-qgis3-model"]
+	path = docker-qgis3-model
+	url = git@github.com:ismailsunni/docker-qgis3-model.git
