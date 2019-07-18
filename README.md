@@ -1,8 +1,10 @@
 # UAS-AutomatedWorkflow
 
+This is the repository to store the work that has been done by Automated Workflow team for the Unmanned Aerial Systems for Applied Research 2019 in the University of Muenster.
+
 ![Classification Result](images/classification.png)
 
-This is the repository to store the work that has been done by Automated Workflow team for the Unmanned Aerial Systems for Applied Research 2019 in the University of Muenster.
+Classification Result
 
 ## Content
 
