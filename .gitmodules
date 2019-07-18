@@ -7,3 +7,6 @@
 [submodule "ODM-QGIS3-Docker-Windows-"]
 	path = ODM-QGIS3-Docker-Windows-
 	url = https://github.com/GulraizKhan-GIS/ODM-QGIS3-Docker-Windows-
+[submodule "QGIS3_Model"]
+	path = QGIS3_Model
+	url = https://github.com/tinabaidar13/QGIS3_Model
