@@ -9,7 +9,7 @@ Classification Result
 ## Content
 
 1. [Docker image to run QGIS 3 Processing Model](https://github.com/ismailsunni/docker-qgis3-model)
-2. [Script to run the whole workflow on Linux / macOS](https://github.com/bkari02/UAVWorkflow)
+2. [Script to run the whole workflow on Linux / macOS](https://github.com/bkari02/UAVWorkflow_Linux_macOS)
 3. [Script to run the whole workflow on Window](https://github.com/GulraizKhan-GIS/ODM-QGIS3-Docker-Windows-)
 4. [QGIS 3 Processing Model](https://github.com/tinabaidar13/QGIS3_Model)
 
