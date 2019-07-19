@@ -1,9 +1,6 @@
 [submodule "docker-qgis3-model"]
 	path = docker-qgis3-model
 	url = https://github.com/ismailsunni/docker-qgis3-model.git 
-[submodule "UAVWorkflow"]
-	path = UAVWorkflow
-	url = https://github.com/bkari02/UAVWorkflow.git
 [submodule "ODM-QGIS3-Docker-Windows-"]
 	path = ODM-QGIS3-Docker-Windows-
 	url = https://github.com/GulraizKhan-GIS/ODM-QGIS3-Docker-Windows-
