@@ -10,3 +10,6 @@
 [submodule "QGIS3_Model"]
 	path = QGIS3_Model
 	url = https://github.com/tinabaidar13/QGIS3_Model
+[submodule "UAVWorkflow_Linux_macOS"]
+	path = UAVWorkflow_Linux_macOS
+	url = https://github.com/bkari02/UAVWorkflow_Linux_macOS
